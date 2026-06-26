@@ -12,7 +12,7 @@ on:
       end_date:
         description: '结束日期 (YYYY-MM-DD) - 留空则默认为今天'
         required: false
-        default: '2026-04-23'
+        default: '2027-04-23'
       daily_commits:
         description: '每天提交次数 (用于历史填充)'
         required: true
